@@ -4,21 +4,21 @@ Okara is a privacy-first AI chat platform that empowers individuals and teams to
 
 📄 **[Read our Whitepaper](https://okara.ai/whitepaper)** to learn more about our vision and technology.
 
-## ✨ Features
+## Features
 
-- 🔐 **Privacy First** - Your conversations stay yours. No data mining, no tracking
-- 🌐 **Open Source LLMs** - Built on transparent, community-driven models
-- 🎨 **Modern Interface** - Clean, intuitive design for seamless interactions
-- 🔌 **Tools Integration** - Integration with Reddit, YouTube, Search and X.
+- **Privacy First** - Your conversations stay yours. No data mining, no tracking
+- **Open Source LLMs** - Built on transparent, community-driven models
+- **Modern Interface** - Clean, intuitive design for seamless interactions
+- **Tools Integration** - Integration with Reddit, YouTube, Search and X.
 
-## 🌟 Support
+## Support
 
 If you find Okara useful, please consider:
 
-- ⭐ Starring the repository
-- 🐦 Sharing on social media
-- 💬 Joining our community
-- 🤝 Contributing to the project
+- Starring the repository
+- Sharing on social media
+- Joining our community
+- Contributing to the project
 
 ## 📧 Contact
 
