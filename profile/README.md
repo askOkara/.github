@@ -18,11 +18,3 @@ If you find Okara useful, please consider:
 - Joining our community
 - Contributing to the project
 
----
-
-<div align="center">
-
-**Built with ❤️ for original thinkers who value privacy**
-
-</div>
-
