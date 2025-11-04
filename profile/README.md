@@ -2,7 +2,7 @@
 
 Okara is a privacy-first AI chat platform that empowers individuals and teams to leverage the power of open-source large language models without compromising on privacy, security, or data ownership. Our mission is to further the usage of open source large language models and in doing so help individuals and teams enjoy the freedom of using AI without worrying about privacy, data theft, and security.
 
-📄 **[Read our Whitepaper](https://okara.ai/whitepaper)** to learn more about our vision and technology.
+**[Read our Whitepaper](https://okara.ai/whitepaper)** to learn more about our vision and technology.
 
 ## Features
 
@@ -20,7 +20,7 @@ If you find Okara useful, please consider:
 - Joining our community
 - Contributing to the project
 
-## 📧 Contact
+## Contact
 
 - Website: [okara.ai](#)
 - Twitter: [@askOkara](#)
@@ -31,8 +31,6 @@ If you find Okara useful, please consider:
 <div align="center">
 
 **Built with ❤️ for original thinkers who value privacy**
-
-[Website](https://okara.ai) • [Whitepaper](https://okara.ai/whitepaper) • [Documentation](#) • [Community](#) • [Blog](#)
 
 </div>
 
