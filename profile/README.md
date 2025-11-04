@@ -18,12 +18,6 @@ If you find Okara useful, please consider:
 - Joining our community
 - Contributing to the project
 
-### Contact
-
-- Website: [okara.ai](#)
-- Twitter: [@askOkara](#)
-- Email: support@okara.ai
-
 ---
 
 <div align="center">
