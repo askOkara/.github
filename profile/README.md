@@ -2,14 +2,14 @@ Okara is private AI chat for original thinkers. Our mission is to further the us
 
 **[Read our Whitepaper](https://okara.ai/whitepaper)** to learn more about our vision and technology.
 
-## Features
+### Features
 
 - **Privacy First** - Your conversations stay yours. No data mining, no tracking
 - **Open Source LLMs** - Built on transparent, community-driven models
 - **Modern Interface** - Clean, intuitive design for seamless interactions
 - **Tools Integration** - Integration with Reddit, YouTube, Search and X.
 
-## Support
+### Support
 
 If you find Okara useful, please consider:
 
@@ -18,7 +18,7 @@ If you find Okara useful, please consider:
 - Joining our community
 - Contributing to the project
 
-## Contact
+### Contact
 
 - Website: [okara.ai](#)
 - Twitter: [@askOkara](#)
